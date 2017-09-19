@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\bin\Debug\Pole pewnego koła.exe.config
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\bin\Debug\Pole pewnego koła.exe
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\bin\Debug\Pole pewnego koła.pdb
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\obj\Debug\Pole pewnego koła.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\obj\Debug\Pole pewnego koła.exe
+c:\users\becia\source\repos\Pole pewnego koła\Pole pewnego koła\obj\Debug\Pole pewnego koła.pdb

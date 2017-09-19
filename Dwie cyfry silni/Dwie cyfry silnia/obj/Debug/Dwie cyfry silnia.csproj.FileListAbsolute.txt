@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\bin\Debug\Dwie cyfry silnia.exe.config
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\bin\Debug\Dwie cyfry silnia.exe
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\bin\Debug\Dwie cyfry silnia.pdb
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\obj\Debug\Dwie cyfry silnia.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\obj\Debug\Dwie cyfry silnia.exe
+c:\users\becia\source\repos\Dwie cyfry silnia\Dwie cyfry silnia\obj\Debug\Dwie cyfry silnia.pdb

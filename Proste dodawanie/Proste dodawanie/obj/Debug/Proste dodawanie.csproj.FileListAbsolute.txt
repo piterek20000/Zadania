@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\bin\Debug\Proste dodawanie.exe.config
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\bin\Debug\Proste dodawanie.exe
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\bin\Debug\Proste dodawanie.pdb
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\obj\Debug\Proste dodawanie.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\obj\Debug\Proste dodawanie.exe
+c:\users\becia\source\repos\Proste dodawanie\Proste dodawanie\obj\Debug\Proste dodawanie.pdb

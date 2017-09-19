@@ -1,0 +1,7 @@
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\bin\Debug\Liczba Pierwsza.exe.config
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\bin\Debug\Liczba Pierwsza.exe
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\bin\Debug\Liczba Pierwsza.pdb
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\obj\Debug\Liczba Pierwsza.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\obj\Debug\Liczba Pierwsza.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\obj\Debug\Liczba Pierwsza.exe
+c:\users\becia\source\repos\Liczba Pierwsza\Liczba Pierwsza\obj\Debug\Liczba Pierwsza.pdb

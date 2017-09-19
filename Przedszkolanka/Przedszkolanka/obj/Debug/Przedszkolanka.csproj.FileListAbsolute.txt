@@ -1,0 +1,7 @@
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\bin\Debug\Przedszkolanka.exe.config
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\bin\Debug\Przedszkolanka.exe
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\bin\Debug\Przedszkolanka.pdb
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\obj\Debug\Przedszkolanka.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\obj\Debug\Przedszkolanka.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\obj\Debug\Przedszkolanka.exe
+c:\users\becia\source\repos\Przedszkolanka\Przedszkolanka\obj\Debug\Przedszkolanka.pdb

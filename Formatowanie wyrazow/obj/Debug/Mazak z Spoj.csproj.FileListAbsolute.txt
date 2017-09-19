@@ -1,0 +1,7 @@
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\bin\Debug\Mazak z Spoj.exe.config
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\bin\Debug\Mazak z Spoj.exe
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\bin\Debug\Mazak z Spoj.pdb
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\obj\Debug\Mazak z Spoj.csprojResolveAssemblyReference.cache
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\obj\Debug\Mazak z Spoj.csproj.CoreCompileInputs.cache
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\obj\Debug\Mazak z Spoj.exe
+C:\Users\Becia\source\repos\Mazak z Spoj\Mazak z Spoj\obj\Debug\Mazak z Spoj.pdb

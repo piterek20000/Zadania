@@ -1,0 +1,7 @@
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\bin\Debug\Zliczanie Liter.exe.config
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\bin\Debug\Zliczanie Liter.exe
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\bin\Debug\Zliczanie Liter.pdb
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\obj\Debug\Zliczanie Liter.csprojResolveAssemblyReference.cache
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\obj\Debug\Zliczanie Liter.csproj.CoreCompileInputs.cache
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\obj\Debug\Zliczanie Liter.exe
+C:\Users\Becia\source\repos\Zliczanie Liter\Zliczanie Liter\obj\Debug\Zliczanie Liter.pdb

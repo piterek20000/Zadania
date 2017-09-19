@@ -1,0 +1,7 @@
+c:\users\becia\source\repos\NWD\NWD\bin\Debug\NWD.exe.config
+c:\users\becia\source\repos\NWD\NWD\bin\Debug\NWD.exe
+c:\users\becia\source\repos\NWD\NWD\bin\Debug\NWD.pdb
+c:\users\becia\source\repos\NWD\NWD\obj\Debug\NWD.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\NWD\NWD\obj\Debug\NWD.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\NWD\NWD\obj\Debug\NWD.exe
+c:\users\becia\source\repos\NWD\NWD\obj\Debug\NWD.pdb

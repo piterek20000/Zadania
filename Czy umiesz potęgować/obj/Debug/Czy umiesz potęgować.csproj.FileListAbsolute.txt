@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\bin\Debug\Czy umiesz potęgować.exe.config
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\bin\Debug\Czy umiesz potęgować.exe
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\bin\Debug\Czy umiesz potęgować.pdb
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\obj\Debug\Czy umiesz potęgować.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\obj\Debug\Czy umiesz potęgować.exe
+c:\users\becia\source\repos\Czy umiesz potęgować\Czy umiesz potęgować\obj\Debug\Czy umiesz potęgować.pdb

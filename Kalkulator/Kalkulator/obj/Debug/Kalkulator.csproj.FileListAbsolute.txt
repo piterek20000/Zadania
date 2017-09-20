@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\becia\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\becia\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\becia\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\becia\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

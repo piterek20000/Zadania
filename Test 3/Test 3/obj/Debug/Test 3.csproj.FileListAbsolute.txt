@@ -1,0 +1,6 @@
+c:\users\becia\source\repos\Test 3\Test 3\bin\Debug\Test 3.exe.config
+c:\users\becia\source\repos\Test 3\Test 3\bin\Debug\Test 3.exe
+c:\users\becia\source\repos\Test 3\Test 3\bin\Debug\Test 3.pdb
+c:\users\becia\source\repos\Test 3\Test 3\obj\Debug\Test 3.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Test 3\Test 3\obj\Debug\Test 3.exe
+c:\users\becia\source\repos\Test 3\Test 3\obj\Debug\Test 3.pdb

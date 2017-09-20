@@ -1,0 +1,7 @@
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\bin\Debug\Predkość średnia.exe.config
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\bin\Debug\Predkość średnia.exe
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\bin\Debug\Predkość średnia.pdb
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\obj\Debug\Predkość średnia.csprojResolveAssemblyReference.cache
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\obj\Debug\Predkość średnia.csproj.CoreCompileInputs.cache
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\obj\Debug\Predkość średnia.exe
+c:\users\becia\source\repos\Predkość średnia\Predkość średnia\obj\Debug\Predkość średnia.pdb
